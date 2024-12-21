@@ -1,5 +1,9 @@
 # Transformer-Based Language Model for Word Embedding Learning
 
+### Paper 
+This version is cleanly formatted for GitHub, making it easier to understand and navigate. It uses proper markdown formatting, such as headings, bullet points, and code blocks, to enhance readability.
+
+
 This repository provides code for transformer-based language model (LM) word embedding learning, designed to enhance classification performance, particularly for applications with small datasets.
 
 ## Applications
@@ -38,7 +42,4 @@ Alternatively, install all required dependencies using:
 ```bash
 pip install -r requirements.txt
 
-
-### Ppaer 
-This version is cleanly formatted for GitHub, making it easier to understand and navigate. It uses proper markdown formatting, such as headings, bullet points, and code blocks, to enhance readability.
 

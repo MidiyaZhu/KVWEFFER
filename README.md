@@ -1,9 +1,10 @@
-# Transformer-Based Language Model for Word Embedding Learning
+# Word Embedding Learning Network for Small Data Applications in NLP
 
 ### Paper 
-This code supports the paper "Domain Lexical Knowledge-Based Word Embedding Learning for Text Classification Under Small Data", which is submitted to Data-Centric Engineering.
+This code accompanies the paper titled "Domain Lexical Knowledge-Based Word Embedding Learning for Text Classification Under Small Data," which has been submitted to Data-Centric Engineering. A citation link will be provided upon acceptance.
 
-This repository provides code for transformer-based language model (LM) word embedding learning, designed to enhance classification performance, particularly for applications with small datasets.
+This repository contains the implementation of a transformer-based language model (LM) for word embedding learning, aimed at improving classification performance, particularly in applications with small datasets.
+
 
 ## Applications
 We provide three example applications:

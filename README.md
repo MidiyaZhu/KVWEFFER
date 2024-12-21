@@ -1,8 +1,7 @@
 # Transformer-Based Language Model for Word Embedding Learning
 
 ### Paper 
-This version is cleanly formatted for GitHub, making it easier to understand and navigate. It uses proper markdown formatting, such as headings, bullet points, and code blocks, to enhance readability.
-
+This code supports the paper "Domain Lexical Knowledge-Based Word Embedding Learning for Text Classification Under Small Data", which is submitted to Data-Centric Engineering.
 
 This repository provides code for transformer-based language model (LM) word embedding learning, designed to enhance classification performance, particularly for applications with small datasets.
 
